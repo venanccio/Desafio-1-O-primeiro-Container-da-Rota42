@@ -17,8 +17,19 @@
 # Desafio-4-Ambiente
   # Contruindo ambiente 
 ![image](https://github.com/user-attachments/assets/c094f18d-7a90-4b15-a52d-220668dabefc)
-  # Configurando bando de dados PostgreSQL no pgAdmin
+  # Configurando banco de dados PostgreSQL no pgAdmin
 ![image](https://github.com/user-attachments/assets/5459dcf7-04c6-4560-b6c4-dd6d7936860c)
+
+# Desafio-5-Onde Está o Bug
+  # Subindo banco de dados PostgreSQL Corrigido e Imagem Ecommerce
+![image](https://github.com/user-attachments/assets/3090f675-97bd-4794-9d0e-74e253b3f006)
+  # Resolvendo Erros dos Serviços na Prática
+![erro-postgre](https://github.com/user-attachments/assets/bb250a9b-c0cc-4aac-81ba-33f6607b6471)
+  # Corrigido o Vínculo DB_NAME e Aplicação Funcionando Perfeitamente
+![image](https://github.com/user-attachments/assets/4571285d-9fef-4909-a9cf-35987587c50f)
+  # App no Ar
+![image](https://github.com/user-attachments/assets/a732dc1e-3fca-4388-88c8-e450126afe61)
+
 
 
 
