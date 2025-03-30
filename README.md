@@ -30,6 +30,13 @@
   # App no Ar
 ![image](https://github.com/user-attachments/assets/a732dc1e-3fca-4388-88c8-e450126afe61)
 
+# Desafio-6-Multiplos Ambientes
+  # Subindo Ambientes
+![image](https://github.com/user-attachments/assets/54f861c9-fc74-492a-a99d-2a5aef8ed647)
+  # Multiplos Ambientes Online
+![multi-enviroment-sites](https://github.com/user-attachments/assets/7d77fce1-5aa9-44f0-8e31-7b5d162c3a17)
+
+
 
 
 
